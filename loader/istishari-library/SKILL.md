@@ -14,7 +14,7 @@ metadata:
 1. اجلب الفهرس بأداة تنفيذ الأوامر:
 
    ```bash
-   curl -fsSL "https://raw.githubusercontent.com/hassanhas2001/istishari-library/refs/tags/v0.1.0/INDEX.md"
+   curl -fsSL "https://raw.githubusercontent.com/hassanhas2001/istishari-library/19174fededa462466ebbab76deeffdd11cd495b8/INDEX.md"
    ```
 
    إن لم يتوفر curl أو فشل، فاستعمل Python:
