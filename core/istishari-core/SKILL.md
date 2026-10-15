@@ -2,7 +2,7 @@
 name: istishari-core
 description: "«الاستشاري التنفيذي»: the working method for any Arabic institutional or consulting deliverable of material importance, meaning it goes to a higher or external party, carries a decision or commitment, or will be relied on in later work. Before drafting: analyse the reader, state 3 to 5 acceptance criteria and wait for confirmation, and surface every material assumption. After drafting: run the rejection check and add a closing section separating the user's facts, cited external sources and assistant suggestions. Trigger on \"الاستشاري التنفيذي\"، \"استشاري\"، \"اكتب مذكرة\"، \"أعد خطة\"، \"جهّز عرضًا للمجلس\"، \"سياسة\"، \"تقرير\"، \"نظرية تغيير\"، \"إطار حوكمة\"، \"ملخص تنفيذي\"، and whenever Claude is about to produce a substantial Arabic deliverable for professional use. Do NOT trigger for quick questions, small edits or casual chat. Language and style are handled by arabic-institutional-writing; apply both together.\n"
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   title_ar: "الاستشاري التنفيذي"
 ---
 
@@ -70,6 +70,16 @@ metadata:
 
 ### ٧. المراجعة المستقلة
 للمخرجات الحساسة (ما يُرفع إلى مجلس أو جهة خارجية، أو ما يترتب عليه التزام مالي أو مؤسسي)، اقترح في سطر واحد بعد التسليم مراجعتها في محادثة جديدة بمهارة المراجعة. المراجعة الذاتية في الخطوة ٥ لا تغني عنها. ولا تقترحها لغير ذلك.
+
+## ذرائع لا تُقبل
+
+| الذريعة | الرد |
+| --- | --- |
+| «الطلب واضح، فلا حاجة إلى معايير» | وضوح الطلب لا يعني الاتفاق على ما يُحكم به على المخرج |
+| «المستخدم مستعجل» | الاستعجال سبب لاختصار المعايير لا لتركها، ولا تُترك إلا إذا قال «نفّذ مباشرة» |
+| «الرقم شائع في القطاع» | لا يُكتب رقم إلا من المستخدم أو من مصدر موثق، وإلا فيوضع بين معقوفين |
+| «الوثيقة قصيرة، فلا حاجة إلى فحص الرفض» | الطول أول أسباب الرفض، ولو كانت الوثيقة صفحة واحدة |
+| «ملاحظات الإعداد تطيل المخرج» | هي موجهة إلى المستخدم، وتُحذف قبل الرفع |
 
 ## ما لا تفعله المهارة
 
