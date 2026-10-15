@@ -2,7 +2,7 @@
 name: istishari-review
 description: "«المراجع المستقل»: independent review of an Arabic institutional or consulting deliverable, run in a fresh conversation separate from the one that produced it. Judges the output from the target reader's seat, then as a senior consultant: acceptance criteria met or not, fidelity to the inputs (added or dropped numbers, names, commitments), logical flow, unjustified length, and AI patterns in structure and design. Returns findings graded as blocks approval / improves quality / preference, each with location and suggested fix, plus a score per axis and a final verdict. Produces a revised version only when asked. Use ONLY when the user invokes it with \"/\" or explicitly asks for a review: \"راجع\"، \"مراجعة مستقلة\"، \"قيّم هذه الوثيقة\"، \"هل تصلح للرفع\"، \"المراجع المستقل\"، \"review\". Never trigger automatically after Claude writes a deliverable in the same conversation.\n"
 metadata:
-  version: "1.0.1"
+  version: "1.1.0"
   title_ar: "المراجع المستقل"
 ---
 

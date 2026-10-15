@@ -10,6 +10,7 @@
 | [obra/superpowers](https://github.com/obra/superpowers) الإصدار 6.2 | MIT | فكرة جدول «الذريعة والرد» في قسم «ذرائع لا تُقبل» من `istishari-core`. لم يُنسخ منه نص. |
 | [blader/humanizer](https://github.com/blader/humanizer) الإصدار 3.1 | MIT | أفكار الأنماط ٢٠–٢٢ وتوسيع النمطين ٣ و١٦ وقاعدة «كل جملة تضيف» في `arabic-institutional-writing`. لم يُنسخ منه نص. |
 | [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills): مهارة `antv-infographic` | MIT، حقوق النسخ © 2025 AntV Visualization Team | فكرة تصنيف القوالب بحسب شكل المحتوى (قائمة، تسلسل، مقارنة) والبدء بالبنية قبل الشكل في `arabic-infographic`. جُرّبت المكتبة الأصلية بالعربية فلم تدعم الاتجاه من اليمين إلى اليسار، وتجلب أيقوناتها من خدمة خارجية، فكُتبت المهارة والسكربت من جديد. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable): مرجع `critique.md` | Apache-2.0 | أفكار بنود الوزن المتساوي وجسر الذاكرة وعدم الاتساق في قائمة فحص `istishari-review`. لم يُنسخ منه نص. |
 | [W3C WCAG 2](https://www.w3.org/TR/WCAG22/) | W3C Document License | حدود التباين 4.5:1 و3:1 في `visual-identity`. |
 | [Google Fonts](https://github.com/google/fonts) | SIL Open Font License 1.1 | الخطوط المقترحة. لا تُوزَّع ملفات الخطوط في هذا المستودع؛ تُنزَّل من مصدرها عند الحاجة. |
 
